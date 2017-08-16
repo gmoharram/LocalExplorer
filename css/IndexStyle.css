@@ -3,10 +3,14 @@ body {
     background-color: red;
 }
 
-.center {
-    margin: auto;
-    width: 40%;
+div.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+
 }
+
 
 .text {
     text-align: center;
