@@ -1,6 +1,6 @@
 body {
-    background-image: url(../images/BlueBackground.jpg);
-    background-color: red;
+    background-image: url(../images/background1.jpg);
+    background-color: lightblue;
 }
 
 div.center {
@@ -16,4 +16,9 @@ div.center {
     text-align: center;
     color: white; 
     
+}
+
+#spin:hover {
+	transition: transform 1s ease;
+	transform: rotate(360deg);
 }

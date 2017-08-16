@@ -1,3 +1,17 @@
 .navbar {
 	background-color: black;
+	 border-radius: 0 !important;
+  -webkit-border-radius: 0 !important;
+   -moz-border-radius: 0 !important;
+   border-radius: 0 !important;
+
 }
+
+body {
+	background-image: url('../images/backgroundHome.jpg');
+}
+
+#background {
+	background-color: #1E1D1D ;
+}
+
