@@ -1,0 +1,20 @@
+.main {
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+body {
+	background-color: #5a5a5a;
+}
+h2{
+	color: #3891d4;
+	text-align: center;
+}
+
+address b{
+	color: #3891d4;
+}
+
+address em {
+	color: white;
+}

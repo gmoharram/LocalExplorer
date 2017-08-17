@@ -1,11 +1,4 @@
-.navbar {
-	background-color: black;
-	 border-radius: 0 !important;
-  -webkit-border-radius: 0 !important;
-   -moz-border-radius: 0 !important;
-   border-radius: 0 !important;
 
-}
 
 body {
 	background-image: url('../images/backgroundHome.jpg');
@@ -19,3 +12,42 @@ h1 {
     color: white;
 }
 
+.main{
+	color: white;
+	font-size: 20px;
+}
+
+em {
+	color: #3891d4;
+}
+
+.fa { 
+	 padding: 10px;
+  font-size: 20px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 5px;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+div.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
